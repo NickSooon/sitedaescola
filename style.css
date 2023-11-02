@@ -20,3 +20,18 @@ html {
 .travel_mainDiv h5, .travel_mainDiv p {
   margin: 20px;
 }
+
+.filme_head {
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.filme_head i {
+  float: right;
+}
+
+.conquistas_text span {
+  color: orangered;
+}
